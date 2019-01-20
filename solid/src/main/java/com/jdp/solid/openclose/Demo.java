@@ -5,7 +5,8 @@ import java.util.List;
 
 /*
 This example shows open-close rule example.
-If its needed to change the filter it is sufficient to add new specification
+If its needed to change the filter of product list
+it is sufficient to add new specification
 */
 public class Demo {
 
