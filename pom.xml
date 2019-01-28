@@ -11,6 +11,8 @@
 
     <modules>
         <module>solid</module>
+        <module>event-broker-chain</module>
+        <module>chain-of-responsibility</module>
     </modules>
 
 </project>
